@@ -1,15 +1,15 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-programming/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-programming/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-magic/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-magic/actions/workflows/publish.yml)
 
-learning-programming
-# Learning Programming
+learning-magic
+# Learning Magic
 
 Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Programming" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/1ao8eaAV3k35v6QY79V1/
+Can be read as "Learning - Magic" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/1ao8eaAV3k35v6QY79V1/
 
-Can be browsed as "Learning - Programming" at https://vanheemstrasystems.github.io/learning-programming/
+Can be browsed as "Learning - Magic" at https://vanheemstrasystems.github.io/learning-magic/
 
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
